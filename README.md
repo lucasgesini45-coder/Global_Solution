@@ -8,6 +8,7 @@ O projeto aplica conceitos fundamentais de Estruturas de Dados, Algoritmos e Pro
 Além do monitoramento em tempo real, o sistema oferece recursos de previsão energética, análise de tendências, detecção de inconsistências e visualização gráfica dos indicadores operacionais.  
 
 🎯 Objetivos  
+
 * Simular o monitoramento de uma missão espacial.  
 * Processar dados de telemetria em estruturas computacionais adequadas.  
 * Classificar automaticamente o estado operacional da missão.  
@@ -15,8 +16,10 @@ Além do monitoramento em tempo real, o sistema oferece recursos de previsão en
 * Fornecer recomendações para mitigação de riscos.  
 * Realizar previsões e análises de tendência.  
 * Exibir dashboards gráficos para apoio à tomada de decisão.  
-⚙️ Funcionalidades  
+⚙️ Funcionalidades
+ 
 🛰 Painel Operacional  
+
 Diagnóstico automático da missão.  
 Classificação dos estados:  
 * NORMAL  
@@ -27,19 +30,26 @@ Classificação dos estados:
 *Detecção de inconsistências operacionais.  
 *Recomendações automáticas.  
 *Previsão de consumo energético.  
-*Análise de tendência de consumo.  
-📊 Telemetria e Análises  
+*Análise de tendência de consumo.
+
+📊 Telemetria e Análises
+
 * Cálculo da variação energética.  
 * Média de temperatura da missão.  
-* Exibição da hierarquia dos sistemas monitorados.  
-📚 Eventos da Missão  
+* Exibição da hierarquia dos sistemas monitorados.
+* 
+📚 Eventos da Missão
+
 * Histórico de eventos operacionais.  
-* Organização dos eventos utilizando estrutura de pilha.  
-🔄 Simulação Operacional  
+* Organização dos eventos utilizando estrutura de pilha.
+* 
+🔄 Simulação Operacional
+
 * Atualização dinâmica dos parâmetros da missão.  
 * Simulação de múltiplos ciclos operacionais.  
-* Reavaliação automática do status da missão.  
-📈 Dashboard Gráfico  
+* Reavaliação automática do status da missão.
+* 
+📈 Dashboard Gráfico
 
 Visualização dos seguintes indicadores:  
 
@@ -47,14 +57,17 @@ Visualização dos seguintes indicadores:
 * Energia consumida  
 * Temperatura  
 * Níveis de radiação  
-* Reserva energética  
+* Reserva energética
+* 
 🏗 Estruturas de Dados Utilizadas
+
 Estrutura	Aplicação  
 Lista	Histórico de telemetria  
 Fila (Queue)	Gerenciamento de alertas  
 Pilha (Stack)	Histórico de eventos  
 Dicionário	Organização dos módulos e hierarquia  
 Matriz/Tabela	Análises de indicadores  
+
 📂 Estrutura do Projeto  
 📦 projeto  
 │  
@@ -74,7 +87,9 @@ Matriz/Tabela	Análises de indicadores
     ├── recomendacoes.py  
     ├── simulacao.py  
     └── tendencia.py  
+    
 🛠 Tecnologias Utilizadas  
+
 Python 3.x  
 JSON  
 Matplotlib  
@@ -83,7 +98,7 @@ Tabulate
 
 Clone o repositório:  
 
-git clone https://github.com/seu-usuario/seu-repositorio.git  
+git clone https://github.com/lucasgesini45/Global_Solution.git  
 
 Acesse a pasta do projeto:  
 
