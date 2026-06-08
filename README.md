@@ -98,11 +98,11 @@ Tabulate
 
 Clone o repositório:  
 
-git clone https://github.com/lucasgesini45/Global_Solution.git  
+git clone https://github.com/lucasgesini45-coder/Global_Solution.git 
 
 Acesse a pasta do projeto:  
 
-cd seu-repositorio  
+cd Global_Solution  
 
 Instale as dependências:  
 
