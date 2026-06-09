@@ -1,4 +1,14 @@
 🚀 Sistema de Monitoramento Operacional de Missão Espacial  
+👨‍💻 Equipe Programadores do Futuro 
+
+| Integrante | RM |
+|------------|----|
+| Lucas Ribeiro Gesini | RM569383 |
+| Calebe Gonçalves Garcia de Souza | RM568743 |
+| Paulo Henrique Gonçalves Bueno | RM570456 |
+| Filipe Souza Nascimento | RM573758 |
+| Raphael de Freitas Silva | RM570089 |
+
 📋 Sobre o Projeto  
 
 O Sistema de Monitoramento Operacional de Missão Espacial foi desenvolvido para simular o acompanhamento de uma missão espacial experimental, permitindo a análise de telemetria, monitoramento de recursos críticos, geração automática de alertas e simulação de cenários operacionais.  
@@ -67,6 +77,43 @@ Fila (Queue)	Gerenciamento de alertas
 Pilha (Stack)	Histórico de eventos  
 Dicionário	Organização dos módulos e hierarquia  
 Matriz/Tabela	Análises de indicadores  
+
+## 📥 Exemplo de Entrada
+
+```json
+{
+  "reserva_energia": 48,
+  "radiacao": 88,
+  "qualidade_comunicacao": 78
+}
+```
+
+## 📤 Exemplo de Saída
+
+```text
+STATUS DA MISSÃO: ALERTA
+
+Alertas:
+- Nível de radiação elevado.
+- Reserva energética abaixo do ideal.
+
+Recomendação:
+- Reduzir consumo energético.
+- Ativar protocolos de proteção contra radiação.
+```  
+## 💡 Recomendações Geradas
+
+O sistema pode recomendar:
+
+- Redução do consumo energético.
+- Ativação de protocolos de proteção contra radiação.
+- Verificação dos módulos de comunicação.
+- Priorização de sistemas essenciais.
+- Reconfiguração operacional para economia de energia.
+
+## 🎥 Vídeo de Apresentação
+  
+https://youtube.com/seu-link-aqui
 
 📂 Estrutura do Projeto  
 📦 projeto  
@@ -174,3 +221,13 @@ Sugestões de estruturação do projeto.
 Apoio conceitual durante o desenvolvimento.  
 
 Todo o código, lógica implementada e validações foram analisados e compreendidos pela equipe responsável pelo projeto.  
+
+## 📚 Conclusões e Aprendizados
+
+O desenvolvimento deste projeto permitiu aplicar conceitos fundamentais de programação em Python, estruturas de dados e análise de informações.
+
+Durante a implementação foram utilizados listas, filas, pilhas, dicionários e matrizes para organizar os dados operacionais da missão espacial.
+
+Além disso, o projeto proporcionou experiência prática na construção de algoritmos para classificação de estados operacionais, geração automática de alertas, previsão de comportamento energético e apoio à tomada de decisões.
+
+A atividade contribuiu para consolidar conhecimentos adquiridos nas fases anteriores e demonstrou a importância da organização lógica na resolução de problemas complexos.
