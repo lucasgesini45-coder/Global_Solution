@@ -116,22 +116,22 @@ O sistema pode recomendar:
 https://youtu.be/lmm7eDi7nE8
 
 Global_Solution/
-│
-├── README.md
-│
-├── src/
-│   ├── main.py
-│   ├── monitoramento.py
-│   └── modulos/
-│
-├── data/
-│   ├── dados.csv
-│   └── dados_missao.json
-│
-└── docs/
-    ├── relatorio.pdf
-    ├── link_video.txt
-    └── uso_ia.md
+│  
+├── README.md  
+│  
+├── src/  
+│   ├── main.py  
+│   ├── monitoramento.py  
+│   └── modulos/  
+│  
+├── data/  
+│   ├── dados.csv  
+│   └── dados_missao.json  
+│  
+└── docs/  
+    ├── relatorio.pdf  
+    ├── link_video.txt  
+    └── uso_ia.md  
     
 🛠 Tecnologias Utilizadas  
 
