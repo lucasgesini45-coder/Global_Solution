@@ -115,25 +115,23 @@ O sistema pode recomendar:
   
 https://youtube.com/seu-link-aqui
 
-📂 Estrutura do Projeto  
-📦 projeto  
-│  
-├── main.py  
-├── monitoramento.py  
-├── dados_missao.json  
-│  
-└── modulos  
-    ├── alertas.py  
-    ├── analise_matriz.py  
-    ├── diagnostico.py  
-    ├── eventos.py  
-    ├── graficos.py  
-    ├── hierarquia.py  
-    ├── inconsistencias.py  
-    ├── previsao.py  
-    ├── recomendacoes.py  
-    ├── simulacao.py  
-    └── tendencia.py  
+Global_Solution/
+│
+├── README.md
+│
+├── src/
+│   ├── main.py
+│   ├── monitoramento.py
+│   └── modulos/
+│
+├── data/
+│   ├── dados.csv
+│   └── dados_missao.json
+│
+└── docs/
+    ├── relatorio.pdf
+    ├── link_video.txt
+    └── uso_ia.md
     
 🛠 Tecnologias Utilizadas  
 
