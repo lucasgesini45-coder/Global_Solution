@@ -1,0 +1,9 @@
+tempo,energia_gerada,energia_consumida,temperatura,historico_radiacao,historico_reserva
+1,72,65,22,60,70
+2,75,67,23,62,68
+3,70,70,24,58,65
+4,68,72,25,64,61
+5,74,75,24,66,58
+6,71,77,23,70,55
+7,69,79,22,74,52
+8,73,82,21,78,49
