@@ -1,5 +1,5 @@
-🚀 Sistema de Monitoramento Operacional de Missão Espacial  
-👨‍💻 Equipe Programadores do Futuro 
+## 🚀 Sistema de Monitoramento Operacional de Missão Espacial  
+## 👨‍💻 Equipe Programadores do Futuro 
 
 | Integrante | RM |
 |------------|----|
@@ -9,7 +9,7 @@
 | Filipe Souza Nascimento | RM573758 |
 | Raphael de Freitas Silva | RM570089 |
 
-📋 Sobre o Projeto  
+## 📋 Sobre o Projeto  
 
 O Sistema de Monitoramento Operacional de Missão Espacial foi desenvolvido para simular o acompanhamento de uma missão espacial experimental, permitindo a análise de telemetria, monitoramento de recursos críticos, geração automática de alertas e simulação de cenários operacionais.  
 
@@ -42,24 +42,24 @@ Classificação dos estados:
 *Previsão de consumo energético.  
 *Análise de tendência de consumo.
 
-📊 Telemetria e Análises
+## 📊 Telemetria e Análises
 
 * Cálculo da variação energética.  
 * Média de temperatura da missão.  
 * Exibição da hierarquia dos sistemas monitorados.
 * 
-📚 Eventos da Missão
+## 📚 Eventos da Missão
 
 * Histórico de eventos operacionais.  
 * Organização dos eventos utilizando estrutura de pilha.
 * 
-🔄 Simulação Operacional
+## 🔄 Simulação Operacional
 
 * Atualização dinâmica dos parâmetros da missão.  
 * Simulação de múltiplos ciclos operacionais.  
 * Reavaliação automática do status da missão.
 * 
-📈 Dashboard Gráfico
+## 📈 Dashboard Gráfico
 
 Visualização dos seguintes indicadores:  
 
@@ -69,7 +69,7 @@ Visualização dos seguintes indicadores:
 * Níveis de radiação  
 * Reserva energética
 * 
-🏗 Estruturas de Dados Utilizadas
+## 🏗 Estruturas de Dados Utilizadas
 
 Estrutura	Aplicação  
 Lista	Histórico de telemetria  
@@ -139,7 +139,7 @@ Python 3.x
 JSON  
 Matplotlib  
 Tabulate  
-📦 Instalação  
+## 📦 Instalação  
 
 Clone o repositório:  
 
@@ -152,12 +152,12 @@ cd Global_Solution
 Instale as dependências:  
 
 pip install matplotlib tabulate  
-▶️ Como Executar  
+## ▶️ Como Executar  
 
 Execute o arquivo principal:  
 
 python main.py  
-🧠 Lógica de Diagnóstico  
+## 🧠 Lógica de Diagnóstico  
 
 O sistema avalia continuamente indicadores críticos da missão:  
 
@@ -168,7 +168,7 @@ Estado dos módulos operacionais
 
 Com base nesses parâmetros, o sistema determina automaticamente o status da missão e gera alertas quando necessário.  
 
-🔍 Análises Implementadas  
+## 🔍 Análises Implementadas  
 Previsão Energética  
 
 Calcula uma projeção futura da reserva energética utilizando a média dos últimos consumos registrados.  
@@ -187,29 +187,23 @@ Identifica situações anormais como:
 Comunicação desligada com sinal elevado.  
 Energia fora dos limites aceitáveis.  
 Radiação extrema sem proteção adequada.  
-📈 Exemplo de Indicadores Monitorados  
+## 📈 Exemplo de Indicadores Monitorados  
 Indicador	Valor  
 Reserva de Energia	48%  
 Radiação	88  
 Comunicação	78  
 Temperatura Média	23°C  
-💡 Diferenciais do Projeto  
+## 💡 Diferenciais do Projeto  
 Arquitetura modular.  
 Simulação dinâmica da missão.  
 Geração automática de alertas.  
 Dashboard gráfico integrado.  
 Aplicação prática de estruturas de dados.  
 Código organizado e de fácil manutenção.  
-👨‍💻 Equipe  
-Lucas Ribeiro Gesini  
-Calebe Goncalves Garcia de Souza  
-Paulo Henrique Gonçalves Bueno  
-Filipe Souza Nascimento  
-Raphael de Freitas Silva  
 
 Projeto desenvolvido para o desafio acadêmico de monitoramento operacional de missão espacial.  
 
-🤖 Uso de Inteligência Artificial  
+## 🤖 Uso de Inteligência Artificial  
 
 A Inteligência Artificial foi utilizada como ferramenta de apoio para:  
 
