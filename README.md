@@ -120,7 +120,7 @@ Global_Solution/
 ├── README.md  
 │  
 ├── src/  
-│   ├── main.py  
+│   ├── Sistemas.py  
 │   ├── monitoramento.py  
 │   └── modulos/  
 │  
@@ -129,7 +129,7 @@ Global_Solution/
 │   └── dados_missao.json  
 │  
 └── docs/  
-    ├── relatorio.pdf  
+    ├── Global Solution.pdf  
     ├── link_video.txt  
     └── uso_ia.md  
     
